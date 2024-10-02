@@ -1154,7 +1154,7 @@ wheels = [
 ]
 
 [[package]]
-name = "my-library"
+name = "my-test-repo"
 version = "0.0.1"
 source = { editable = "." }
 dependencies = [

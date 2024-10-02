@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 exclude = ["notebooks", "tests", "images"]
 
 [project]
-name = "my_library"
+name = "my_test_repo"
 version = "0.0.1"
 dependencies = [
     "numpy"

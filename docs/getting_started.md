@@ -1,5 +1,7 @@
 # Getting started
 
+Hi, this is a test!
+
 ## Installation
 
 ```
